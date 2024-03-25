@@ -1,7 +1,7 @@
 ---
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+description: A Website by Valentino, A Programmer by Trade, A Photograph by Heart 
 #lastmod: 2023-07-05
-title: Hugo Gallery
+title: Valentino's Gallery
 featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:

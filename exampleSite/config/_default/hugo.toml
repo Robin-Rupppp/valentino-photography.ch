@@ -1,4 +1,4 @@
-copyright = "© Your Name"
+copyright = "© Valentino-photograhpy"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
@@ -9,11 +9,11 @@ title = "Gallery"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  description = "A Website by Valentino, A Programmer by Trade, A Photograph by Heart"
+  title = "Valentino's Gallery"
   [params.author]
-    email = "user@example.com"
-    name = "Your Name"
+    email = "Valentino-photograhpy@proton.com"
+    name = "Valentino-photograhpy"
   [params.socialIcons]
     facebook = "https://www.facebook.com/"
     instagram = "https://www.instagram.com/"
