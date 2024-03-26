@@ -17,9 +17,9 @@ title = "Gallery"
   [params.socialIcons]
     facebook = "https://www.facebook.com/"
     instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    github = "https://github.com/"
     youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
+    email = "Valentino-photograhpy@proton.com"
 
 [outputs]
   home = ["HTML", "RSS"]
